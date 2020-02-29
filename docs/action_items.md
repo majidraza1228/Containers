@@ -1,6 +1,6 @@
 # Internal - Action Items
 
-Samples from in28minutes repository to make it easy.
+Samples from __in28minutes__ repository to make it easy.
 
 | Action Item | Owner | Deadline |
 |---|---|---|
