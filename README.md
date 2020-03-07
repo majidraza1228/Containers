@@ -16,3 +16,6 @@ Please [read the study materials](docs/study_materials.md) for the session to ma
 
 ### Schedule/Agenda
 [Schedule](docs/schedule.md) is available here.
+
+### Registration
+Please [register](https://forms.gle/ckmsRjj8TfFHy2Dy9) for the session here.
